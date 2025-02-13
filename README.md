@@ -1,6 +1,6 @@
 # web-scrapers
 
-This is a web scraping algorithm for Facebook, X, Linkedin, Instagram, and Xiaohongshu designed for Professor Xiao Liu's class. This guide provides step-by-step instructions to help you set up and run the file on your local machine.
+This repo has web scraping algorithms for Facebook, X, Linkedin, Instagram, and Xiaohongshu. This guide provides step-by-step instructions to help you set up and run the file on your local machine.
 
 ## 1. Create a Conda Environment with Python 3.12
 
