@@ -10,3 +10,7 @@ ipywidgets
 requests
 twitter-scraper-selenium
 ipython
+ntscraper 
+yt-dlp 
+requests 
+pandas
